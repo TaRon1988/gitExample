@@ -6,6 +6,8 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
+
+//gitTest
 //1:1통신
 public class ChatServer {
 	public static void main(String[] args) throws Exception {
